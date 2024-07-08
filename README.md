@@ -2,7 +2,7 @@
 
 ## Description
 
-Movies is a dynamic and engaging movie review site where users can browse through a carousel of movies, watch trailers, and post their reviews. It showcases IMDb ratings, movie stills, and various genres, providing a comprehensive movie-watching and reviewing experience.
+🎬 **Movies** is a dynamic and engaging movie review site where users can browse through a carousel of movies, watch trailers, and post their reviews. It showcases IMDb ratings, movie stills, and various genres, providing a comprehensive movie-watching and reviewing experience.
 
 ## Features
 
@@ -22,7 +22,10 @@ Movies is a dynamic and engaging movie review site where users can browse throug
    - An IDE (IntelliJ, VSCode, or the built-in GitHub IDE).
 
 2. **Setup**:
-   - Clone the repository.
+   - Clone the repository:
+     ```sh
+     git clone https://github.com/purusharthcodeshere/Movies.git
+     ```
    - Open the project using your preferred IDE.
    - Install necessary Spring Boot dependencies as mentioned in the `HELP.md` file.
 
@@ -53,37 +56,39 @@ Movies is a dynamic and engaging movie review site where users can browse throug
 
 1. **Start the Backend**:
    - Run the `MovieApplication.java` file.
-
 2. **Start the Frontend**:
    - Execute `npm start` in the terminal.
-
 3. **Access the Application**:
    - Open your web browser and go to `localhost:3000` to view and interact with the movie review site.
 
 ## Technologies Used
 
 ### Backend
+
 - Java
 - Spring Boot
 - Lombok
 - MongoDB
 
 ### Frontend
+
 - JavaScript
 - React
 - HTML
 - CSS
 
 ### Database
+
 - MongoDB
 
 ### Tools
-- IDE (IntelliJ, VSCode)
+
+- IDE (*preferably* VSCode for frontend and IntelliJ for backend)
 - npm (Node Package Manager)
 
 ## Contributing
 
-Currently, there are no specific guidelines for contributing. Contributions are welcome and will be outlined in more detail in future updates.
+Contributions are welcome! Currently, there are no specific guidelines for contributing. Feel free to open issues or submit pull requests. Detailed guidelines will be added in future updates.
 
 ## License
 
